@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-exp10",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "description": "Base 10 exponential function.",
   "license": "Apache-2.0",
   "author": {
