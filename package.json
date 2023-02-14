@@ -38,22 +38,30 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/constants-float64-max-base10-exponent": "^0.0.x",
-    "@stdlib/constants-float64-min-base10-exponent": "^0.0.x",
-    "@stdlib/constants-float64-pinf": "^0.0.x",
-    "@stdlib/math-base-assert-is-nan": "^0.0.x",
-    "@stdlib/math-base-special-floor": "^0.0.x",
-    "@stdlib/math-base-special-ldexp": "^0.0.x"
+    "@stdlib/constants-float64-max-base10-exponent": "^0.0.8",
+    "@stdlib/constants-float64-min-base10-exponent": "^0.0.8",
+    "@stdlib/constants-float64-pinf": "^0.0.8",
+    "@stdlib/math-base-assert-is-nan": "^0.0.8",
+    "@stdlib/math-base-napi-unary": "^0.0.8",
+    "@stdlib/math-base-special-floor": "^0.0.8",
+    "@stdlib/math-base-special-ldexp": "^0.0.8",
+    "@stdlib/utils-library-manifest": "^0.0.8"
   },
   "devDependencies": {
-    "@stdlib/bench": "^0.0.x",
-    "@stdlib/constants-float64-eps": "^0.0.x",
-    "@stdlib/constants-float64-ninf": "^0.0.x",
-    "@stdlib/fs-write-file": "^0.0.x",
-    "@stdlib/math-base-special-abs": "^0.0.x",
-    "@stdlib/math-base-tools-evalpoly-compile": "^0.0.x",
-    "@stdlib/random-base-randu": "^0.0.x",
-    "@stdlib/time-current-year": "^0.0.x",
+    "@stdlib/bench": "^0.0.12",
+    "@stdlib/constants-float64-eps": "^0.0.8",
+    "@stdlib/constants-float64-ninf": "^0.0.8",
+    "@stdlib/fs-read-file": "^0.0.8",
+    "@stdlib/fs-write-file": "^0.0.8",
+    "@stdlib/math-base-special-abs": "^0.0.6",
+    "@stdlib/math-base-tools-evalpoly-compile": "^0.0.8",
+    "@stdlib/math-base-tools-evalpoly-compile-c": "^0.0.1",
+    "@stdlib/random-base-randu": "^0.0.8",
+    "@stdlib/string-format": "^0.0.3",
+    "@stdlib/string-substring-after": "^0.0.2",
+    "@stdlib/string-substring-before": "^0.0.2",
+    "@stdlib/time-current-year": "^0.0.2",
+    "@stdlib/utils-try-require": "^0.0.7",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
@@ -90,7 +98,7 @@
     "number"
   ],
   "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/athan"
+    "type": "opencollective",
+    "url": "https://opencollective.com/stdlib"
   }
 }
