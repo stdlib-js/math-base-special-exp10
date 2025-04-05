@@ -51,6 +51,7 @@
     "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/assert-is-positive-zero": "^0.2.2",
     "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
