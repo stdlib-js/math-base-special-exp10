@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2025-09-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`86edcb5`](https://github.com/stdlib-js/stdlib/commit/86edcb559be453cb7d1156076bfc940a37a39af0) - **chore:** add structured package data for packages in `math/base/special` [(#8054)](https://github.com/stdlib-js/stdlib/pull/8054) _(by Gunj Joshi, Athan Reines)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`0e376f8`](https://github.com/stdlib-js/stdlib/commit/0e376f8bb234692a55dc57773533114a5512cddd) - **test:** add tests for IEEE 754-2019 compliance [(#6570)](https://github.com/stdlib-js/stdlib/pull/6570) _(by Karan Anand)_
 -   [`d0c1c2b`](https://github.com/stdlib-js/stdlib/commit/d0c1c2b9a307016b894d7fa3d500c98558bbe197) - **test:** add tests for IEEE 754-2019 compliance [(#6558)](https://github.com/stdlib-js/stdlib/pull/6558) _(by Karan Anand)_
@@ -31,8 +32,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Gunj Joshi
 -   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
