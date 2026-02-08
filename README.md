@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import exp10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp10@esm/index.mjs';
+import exp10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp10@v0.2.4-esm/index.mjs';
 ```
 
 #### exp10( x )
@@ -81,7 +81,7 @@ v = exp10( NaN );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import exp10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp10@esm/index.mjs';
+import exp10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-exp10@v0.2.4-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
