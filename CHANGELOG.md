@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-16)
+## Unreleased (2026-07-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b953edd`](https://github.com/stdlib-js/stdlib/commit/b953edd95d0ca1b521d0abbd2c2719d099ff7807) - **refactor:** use `constants/float64/nan` and clean-up [(#13585)](https://github.com/stdlib-js/stdlib/pull/13585) _(by Philipp Burckhardt)_
 -   [`50cb98f`](https://github.com/stdlib-js/stdlib/commit/50cb98fdeb566088b9f46b15250fda593b9462bf) - **test:** migrate `math/base/special/exp10` to ULP-based testing [(#12779)](https://github.com/stdlib-js/stdlib/pull/12779) _(by Philipp Burckhardt)_
 -   [`c73c8b3`](https://github.com/stdlib-js/stdlib/commit/c73c8b39bd76529182ea2b3423c6f0feab434774) - **bench:** refactor to use string interpolation in `math/base/special` [(#11387)](https://github.com/stdlib-js/stdlib/pull/11387) _(by Karan Anand)_
 
